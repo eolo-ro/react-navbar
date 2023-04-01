@@ -14,5 +14,5 @@ npm i
 ```
 
 ```sh
-npm i create-router-dom
+npm i react-router-dom
 ```
